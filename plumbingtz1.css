@@ -6,6 +6,7 @@
  }
  
  /* Style the links inside the navigation bar */
+ 
  .topnav a {
   float: left;
   color: black;
@@ -15,6 +16,7 @@
   font-size: 19px;
   background-color: aqua;
   height: 10px;
+
 }
  
  /* Change the color of links on hover */
@@ -58,6 +60,7 @@
       /* background-image: url(download.jpg); */
       background-repeat: no-repeat;
       background-size: 100% 800px;
+    
    }
 
 .downbar{
@@ -188,6 +191,10 @@ text-transform: uppercase; }
 
 
 /* SANITARY START HERE */
+.besenikubwa img{
+  margin-left: 150px;
+
+}
  .downbar2{
     
      height: 50%;
@@ -403,7 +410,125 @@ height: auto;
       font-size: 20px;
       background-color: rgba(0, 0, 0, 0.363);
   }
+  /* EMERGENCE START HERE */
   
+/* emergence start here */
+header{
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 70px;
+  text-justify: newspaper;
+  font-size: 24px;
+  color: red;
+  background-color: rgb(95, 158, 160);
+
+  
+}
+.emergence{
+ width: auto;
+  height: fit-content;
+  background-color: rgba(95, 158, 160, 0.411);
+  
+}
+.emergence .emergence1{
+  height: 280px;
+  width: 100%;
+ 
+}
+.emergence1 .we{
+  text-align: center;
+}
+.emergence1 h2{
+  text-align: center;
+}
+.mtt1{
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.466);
+  color: white;
+  width: 40%;
+  height: 285px;
+  float: right;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+.emergence .emergence2{
+  height:100px;
+  width: 100%;
+  background-color:rgba(95, 121, 160, 0.288);
+  
+}
+
+.link1{
+  float: right;
+  background-color: rgba(255, 255, 0, 0.281);
+  width: 48%;
+  height: 99px;
+  
+}
+.link2{
+  left: 35px;
+}
+.emergence0{
+  float: right;
+  width: 60%;
+}
+.ppp{
+  font-size: 16.5px;
+text-transform: uppercase;
+
+text-align: center;
+
+}
+
+
+.emergence .emergence3{
+  height: 230px;
+  width: 40%;
+  background-color: maroon;
+  float: right;
+  border-radius: 25px 25px;
+}
+.helmate{
+  align-items: center;
+  width: 500px;
+  left: 8.08px;
+  border-radius: 25px 25px;
+}
+.hel{
+  text-align: center;
+  text-transform: uppercase;
+  color: aliceblue;
+  font-size: 15px;
+}
+
+.emergence .emergence4{
+  height: 234px;
+  width: 20%;
+  background-color:cadetblue;
+  border:black;
+  border-radius: 25px 25px;
+float: right;
+
+ 
+}
+.emergence4 p{
+  text-transform: uppercase;
+  background-color: white;
+  color: red;
+  font-size: 15px;
+  border-radius: 50px 50px;
+ 
+ 
+}
+.emergence .emergence5{
+  height: 234px;
+  width: 40%;
+  background-color: cadetblue;
+ float: right;
+ border-radius: 25px 25px;
+}
+
   
   
 

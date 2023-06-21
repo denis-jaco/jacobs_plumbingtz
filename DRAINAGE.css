@@ -85,8 +85,8 @@
      }
  
      h1{
-       color: white ;
-       background-color: rgba(0, 0, 0, 0.473);
+       color: black;
+       background-color:rgba(255, 255, 255, 0.315);
      text-align: center;
      }
  
@@ -166,23 +166,156 @@
        
       }
 
+      .kichwa p{
+        color: black;
+        font-size: 20px;
+       width: auto;
+       text-align: center;
+       text-transform: uppercase;
+
+      }
+
+
       .drainagepcs{
+        height: 410px;
+        /* background-color: #aa4604; */
+
+      }
+
+      
+       .drainagepc{
+        width: 45%;
+        /* background-color: red; */
+        height:400px;
+        align-items: center;
+        float: right;
+        font-size: 19px;
+        color: black;
+      }
+
+       .drainagepc img{
+        height: 34lvh;
+        width: 70%;
+        margin:auto;
+        margin-top: 10px;
+        margin-left: 10%;
+
+      }
+      .drainagepcs .drainagepc p{
+        width:auto;
+        margin: auto;
+        display: flex;
+      }
+      .drainagepcs .drainagepc ol{
+        margin:auto;
+        /* background-color: rgba(0, 0, 0, 0.466); */
+        margin-left: 20%;
+      }
+      
+      .drainagepcs .ulenal{
+        width: auto;
+        height:400px;
+        /* background-color: green; */
+        align-items: center;
+      }
+      .drainagepcs .ulenal img{
+        width: 50lvh; 
+        height:auto;
+        align-items: center;
+        margin-left: 10%;
+        margin-top:  10px;
+      }
+      .drainagepcs p{
+        width: auto;
+        text-align: center;
+        color:black;
+        
+      }
+
+
+      .bidetshimo {
+        /* background-color: blue; */
+        height: 490px;
+        margin-top: 23px;
+        display: flex;  
+      }
+
+      .shimo{
+        float:;
+       width: auto;
+      }
+      .shimo img{
+        height: 400px;
+        width: auto;
+        margin-left: 12px;
+      }
+      .shimo p{
+        color: black;
+        font-size: 18px;
+        text-align: center;
+       
+      }
+
+      .bidet{
+        /* background-color: red; */
+      }
+      .bidet p{
+        margin-left: 20px;
+        color:black;
+        font-size: 18px;
+      }
+      .bidet img{
+        height: 400px;
+        width: auto;
+        margin-right: 12px;
+      }
+
+
+
+      .drainagepx{
+        width: auto;
+        height: auto;
+       
+      }
+      .drainagepx h3{
+        font-size: 25px;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      .drainagepx p{
+       font-size: 19px; 
+        text-align: center;
+
+      }
+      .drainagepx img{
+        width: 80%;
+        height: auto;
+        margin-left: 120px;
+      }
+
+      /* .drainagepcs{
         display: flex;
 
       }
       .drainagepc{
         float: left;
-        width: 33.33%;
+        width: auto;
         padding: 1px;
       
-      }
-      .drainagepcs::after{
+      } */
+
+      /* .drainagepc img{
+        width: 34%;
+        height: 20px;
+      } */
+
+      /* .drainagepcs::after{
         content: "";
         clear: both;
         display:inline-table;
       }
       .drainagepc{padding: 4px;
-         flex:  33.33%;}
+         flex:  33.33%;} */
 
        
         
@@ -213,16 +346,5 @@
   text-transform: uppercase;
   font-size: 20px;
  }
- 
- .ppp{
- 
-  color:white;
-  font-size: 20px;
- width: auto;
- text-align: center;
- text-transform: uppercase;
-background-color: #33333328;
- }
- 
  
  
